@@ -33,7 +33,7 @@ Check out the live version here: [Live URL](https://react-website-pi-eight.verce
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
->>>>>>> bd53c8c (Complete)
+
 ## 🎉 Thank You!
 
 Thank you for exploring this project! Your interest and feedback are greatly appreciated. 😊
