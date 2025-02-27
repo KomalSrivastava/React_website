@@ -8,7 +8,7 @@ This project is a responsive webpage built with React, designed to function seam
 ## 🛠️ Tech Stack
 
 - **React (Latest Version)**
-- **CSS/Styled-Components/Tailwind CSS** (Choose your preferred styling method)
+- **Tailwind CSS*
 - **Vercel** for deployment
 
 ---
@@ -23,7 +23,7 @@ This project is a responsive webpage built with React, designed to function seam
 
 ## 🚀 Live Demo
 
-Check out the live version here: [Live URL](https://your-live-url.vercel.app)
+Check out the live version here: [Live URL](https://react-website-pi-eight.vercel.app/)
 
 ---
 
@@ -34,3 +34,6 @@ Check out the live version here: [Live URL](https://your-live-url.vercel.app)
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
 >>>>>>> bd53c8c (Complete)
+## 🎉 Thank You!
+
+Thank you for exploring this project! Your interest and feedback are greatly appreciated. 😊
