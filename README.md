@@ -8,7 +8,7 @@ This project is a responsive webpage built with React, designed to function seam
 ## 🛠️ Tech Stack
 
 - **React (Latest Version)**
-- **Tailwind CSS*
+- **Tailwind CSS**
 - **Vercel** for deployment
 
 ---
